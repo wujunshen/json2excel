@@ -107,7 +107,7 @@ public class Main {
             cell.setCellValue(replaceBlank(removeBrace(format(value.toString()))));
           }
           if (value instanceof String) {
-            cell.setCellValue(replaceBlank(removeBrace(format((String) value))));
+            cell.setCellValue(replaceBlank(removeBrace((String) value)));
           }
 
           k++;

@@ -11,7 +11,7 @@ idea里新建artifacts，可自行选择jar包生成路径（具体idea如何设
 
 #### 使用说明
 1. 将要转excel格式的json文件放到json目录下
-2. 项目根目录下执行命令 java -jar json_to_excel.jar
+2. 项目根目录下执行命令 java -jar json2Excel.jar
 3. 去excel目录查找和json文件同名的excel文件
 
 
